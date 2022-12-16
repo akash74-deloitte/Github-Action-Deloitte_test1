@@ -29,5 +29,5 @@ jobs:
       - name: log node version after specifying particular version
         run: |
           node -v
-          echo $IS_UBUNTU_8
+          echo $IS_UBUNTU_8 
 
